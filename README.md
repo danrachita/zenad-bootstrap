@@ -1,4 +1,4 @@
-## zenad bootstrap  
+## Zenad bootstrap  
 
 Robin project found that zenad blockchain was scammed on June 15, and shared a bootstrap for zenad node operators and holders. This blockchain we shared is original.  
   
