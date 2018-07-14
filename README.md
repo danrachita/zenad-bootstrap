@@ -3,6 +3,7 @@
 Robin project found that zenad blockchain was scammed on June 15, and shared a bootstrap for zenad node operators and holders. This blockchain we shared is original.  
   
 zenad_bootstrap_20180621.zip - md5 checksum: 2b681d9c85f710be43485b3c5fddc5e8  
+zenad_bootstrap_20180713.zip - md5 checksum: 61aa922e6747c41e38b1f19c73ab982d  
   
 ***
 ## Donations  
